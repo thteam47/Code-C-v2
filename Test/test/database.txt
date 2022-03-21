@@ -1,1 +1,2 @@
-ID:57476545|Name:Pham Van Thai       |grade:10.000|height:10.000 
+
+32355325|Nguyen Cong Dat     |10.000|10.000 
